@@ -7,4 +7,4 @@ class TestDie(unittest.TestCase):
         self.die = Die()
 
     def test_upper(self):
-        self.assertEqual('foo'.upper(), 'FOO')
+        self.assertEqual(self.die.sides, 6)
