@@ -1,3 +1,4 @@
+#code coverage
 name: CodeCov
 on: push
 jobs:
